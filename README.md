@@ -1,4 +1,4 @@
-# portfolio
-Webpage Portfolio
+# Webpage Portfolio
 
-Live on AteethOnWeb.com
+Live personal webpage. 
+Can be viewed at: [a link](www.AteethOnWeb.com)
